@@ -1,5 +1,5 @@
 # ADB-Wireless.app
-Mac Only!
+Mac Only!  For Android devices running KitKat 4.4 or XE22.
 
 Automates registation process for Android Debug Bridge over WiFi.  
 
